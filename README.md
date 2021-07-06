@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Shivam!
 
-I’m a Front End Developer from India, experienced in building responsive, accessible websites and web applications using React, NextJs TypeScript, JavaScript, Hasura-Graphql, Redux-Toolkit. I mostly spend my day thinking about some new project and my night coding them. I prefer to learn by doing. I dream to retire in my 20s.
+I’m a Front End Developer from India, experienced in building responsive, accessible websites and web applications using React, NextJs TypeScript, JavaScript, Hasura-Graphql, Redux-Toolkit. I mostly spend my day thinking about some new project and my night coding them. I prefer to learn by doing. 
 
 ## Skill set:
 
