@@ -37,6 +37,7 @@ I’m a Front End Developer from India, experienced in building responsive, acce
 
 - NextJs
 - GraphQl
+- React Native
 
 ### :thinking: I want to learn:
 
