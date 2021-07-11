@@ -59,6 +59,6 @@ I’m a Front End Developer from India, experienced in building responsive, acce
   <img align="left" alt="Kumar Shivam Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 
-###Stats
+### Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshivam99&layout=compact&show_icons=true&theme=onedark)](https://github.com/kshivam99/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshivam99&layout=compact&theme=onedark)](https://github.com/kshivam99/github-readme-stats)
